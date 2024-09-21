@@ -21,26 +21,26 @@
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Kulsrestha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kulsrestha&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kulsrestha&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 <!-- Featured Projects Section -->
 <h2 align="center">🌟 My Featured Projects</h2>
 <ul>
-  <li><a href="https://github.com/your-github-username/project-1">Project 1</a> - Description of the project</li>
-  <li><a href="https://github.com/your-github-username/project-2">Project 2</a> - Description of the project</li>
+  <li><a href="https://github.com/Kulsrestha/Animation_Website">Animation Website</a> - A website that demonstrates various animations and web design concepts.</li>
+  <li><a href="https://github.com/Kulsrestha/Auto-Image-to-Text-Conversion">Auto Image to Text Conversion</a> - A Python project that converts images to text using OCR (Optical Character Recognition).</li>
 </ul>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social"></a>
+  <a href="https://www.linkedin.com/in/kulsrestha-joshi-093828269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+  <a href="https://twitter.com/kulsrestha" target="_blank"><img src="https://img.shields.io/twitter/follow/kulsrestha?style=social"></a>
 </p>
 
 <!-- Fun Visuals (Wave GIF) -->
@@ -50,8 +50,9 @@
 
 <!-- Profile Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Kulsrestha&style=flat-square&color=blueviolet" alt="Profile Views">
 </p>
+
 
 <!---
 Kulsrestha/Kulsrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
