@@ -33,8 +33,8 @@
 <!-- Featured Projects Section -->
 <h2 align="center">🌟 My Featured Projects</h2>
 <ul>
-  <li><a href="https://github.com/Kulsrestha/Animation_Website">Animation Website</a> - A website that demonstrates various animations and web design concepts.</li>
-  <li><a href="https://github.com/Kulsrestha/Auto-Image-to-Text-Conversion">Auto Image to Text Conversion</a> - A Python project that converts images to text using OCR (Optical Character Recognition).</li>
+  <li><a href="https://github.com/Kulsrestha/Simon-Game">Simon Game</a> - A web-based memory game where players must repeat increasingly complex sequences of lights and sounds.</li>
+  <li><a href="https://github.com/Kulsrestha/Drum-Kit">Drum Kit</a> - A fun, interactive drum kit built using JavaScript and DOM manipulation to simulate real drum sounds.</li>
 </ul>
 
 <!-- Social Links -->
