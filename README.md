@@ -40,7 +40,7 @@
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kulsrestha-joshi-093828269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
-  <a href="https://twitter.com/kulsrestha" target="_blank"><img src="https://img.shields.io/twitter/follow/kulsrestha?style=social"></a>
+  <a href="https://twitter.com/kulsrestha" target="_blank"><img src="https://img.shields.io/twitter/"></a>
 </p>
 
 <!-- Fun Visuals (Wave GIF) -->
